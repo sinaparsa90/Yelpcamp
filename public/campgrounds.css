@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(60, 255, 0);
+    color : purple;
+}
+
+img {
+    
+    height: auto;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

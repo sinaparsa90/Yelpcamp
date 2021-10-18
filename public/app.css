@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(226, 231, 224);
+    color : rgb(87, 73, 87);
+}
+
+img {
+    
+    height: auto;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
