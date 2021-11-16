@@ -10,8 +10,7 @@ mongoose.connect("mongodb://localhost:27017/yelp_camp_v3",{useNewUrlParser: true
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.use(express.static(__dirname + "/public"));
-
+app.use(express.static( "public"));
 
 app.set("view engine", "ejs");
 
